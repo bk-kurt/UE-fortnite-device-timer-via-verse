@@ -1,2 +1,3 @@
 # UE-fortnite-device-timer-via-verse
-Device timer component via Verse language by Unreal Engine Fortnite (UEFN)
+Unreal Engine Timer component for fortnite using [Verse language](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference) by Epic Games Unreal Engine Fortnite (UEFN)
+
